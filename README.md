@@ -3,4 +3,4 @@ Quan descargar la carpeta d'aquesta projecte, pot ser no trobar les libreries, s
 
 Aquesta projecte:
 
-Utilitzar "w" per canviar mode de pintar (fill o line) .
+Utilitzar el key "w" per canviar mode de pintar (fill o line) .
