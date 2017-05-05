@@ -3,4 +3,4 @@ Cuando descargar la carpeta de este proyecto, puede ser no encontrar las librer√
 
 Este proyecto:
 
-Utilizar el key "w" para cambiar el modo de pintar (hijo o line).
+Utilizar el key "w" para cambiar el modo de pintar (fill o line).
